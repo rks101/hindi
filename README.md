@@ -14,6 +14,8 @@ argument - तर्क
 
 attached - संलग्न 
 
+center/centre - केंद्र 
+
 claim - मांग / अनुरोध 
 
 commission - आयोग 
@@ -32,7 +34,7 @@ entrepreneurship - उद्यमशीलता
 
 establishment - स्थापना   
 
-excellence - कुशलता 
+excellence - कुशलता / उत्कृष्टता 
 
 grant - अनुदान 
 
@@ -51,6 +53,8 @@ inspiration - प्रेरणा
 institution - संस्थान   
 
 invoice - चालान / बीजक 
+
+learning - अधिगम / सीखना 
 
 management - प्रबंधन 
 
@@ -87,6 +91,8 @@ salary - वेतन
 science - विज्ञान 
 
 senate - अभिषद 
+
+skill - कौशल 
 
 statute - अधिनियम 
 
