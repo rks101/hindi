@@ -12,9 +12,21 @@ communication - सम्प्रेषण
 
 development - विकास 
 
+entrepreneurship - उद्यमशीलता 
+
 excellence - कुशलता 
 
+incubation - उद्भवन 
+
+infrastructure - आधारभूत संरचना 
+
+innovation - नवाचार 
+
 management - प्रबंधन 
+
+noting - टिप्पण, टिप्पणी-लेखन 
+
+office note - कार्यालय टिप्पणी 
 
 program - कार्यक्रम 
 
