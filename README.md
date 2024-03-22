@@ -28,13 +28,19 @@ compile - संकलन
 
 consultancy - परामर्श कार्य  
 
+definition - परिभाषा 
+
 development - विकास 
 
 entrepreneurship - उद्यमशीलता 
 
 establishment - स्थापना   
 
+example - उदाहरण 
+
 excellence - कुशलता / उत्कृष्टता 
+
+format - प्रारूप 
 
 grant - अनुदान 
 
@@ -61,6 +67,8 @@ management - प्रबंधन
 noting - टिप्पण / टिप्पणी-लेखन 
 
 office note - कार्यालय टिप्पणी 
+
+paragraph - अनुच्छेद 
 
 planning - योजना 
 
@@ -93,6 +101,8 @@ science - विज्ञान
 senate - अभिषद 
 
 skill - कौशल 
+
+specimen - नमूना / प्रतिरूप 
 
 statute - अधिनियम 
 
