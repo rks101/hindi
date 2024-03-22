@@ -8,6 +8,8 @@
 
 approval - अनुमोदन 
 
+claim - मांग / अनुरोध 
+
 communication - सम्प्रेषण 
 
 consultancy - परामर्श कार्य  
@@ -22,7 +24,11 @@ excellence - कुशलता
 
 grant - अनुदान 
 
+guidelines - दिशानिर्देश 
+
 incubation - उद्भवन 
+
+indent - मांगपत्र 
 
 infrastructure - आधारभूत संरचना 
 
@@ -30,25 +36,42 @@ innovation - नवाचार
 
 institution - संस्थान   
 
+invoice - चालान / बीजक 
+
 management - प्रबंधन 
 
-noting - टिप्पण, टिप्पणी-लेखन 
+noting - टिप्पण / टिप्पणी-लेखन 
 
 office note - कार्यालय टिप्पणी 
+
+policy - नीति 
 
 program - कार्यक्रम 
 
 psychology - मनोविज्ञान 
 
+purchase indent/requisition - क्रय मांगपत्र
+
+purchase order - क्रय आदेश 
+
 recommendation - अनुशंसा / सिफ़ारिश 
 
+reference - संदर्भ 
+
+reimbursement - प्रतिपूर्ति 
+
 research - अनुसंधान 
+
+rules and regulations - नियम और विनिमय 
 
 science - विज्ञान 
 
 senate - अभिषद 
 
+statute - अधिनियम 
+
 technical - तकनिकी 
 
 technology - प्रौद्योगिकी 
 
+thrift - मितव्यता 
