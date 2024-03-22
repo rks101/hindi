@@ -10,17 +10,25 @@ approval - अनुमोदन
 
 communication - सम्प्रेषण 
 
+consultancy - परामर्श कार्य  
+
 development - विकास 
 
 entrepreneurship - उद्यमशीलता 
 
+establishment - स्थापना   
+
 excellence - कुशलता 
+
+grant - अनुदान 
 
 incubation - उद्भवन 
 
 infrastructure - आधारभूत संरचना 
 
-innovation - नवाचार 
+innovation - नवाचार   
+
+institution - संस्थान   
 
 management - प्रबंधन 
 
@@ -33,6 +41,8 @@ program - कार्यक्रम
 psychology - मनोविज्ञान 
 
 recommendation - अनुशंसा / सिफ़ारिश 
+
+research - अनुसंधान 
 
 science - विज्ञान 
 
