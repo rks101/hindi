@@ -68,6 +68,8 @@ noting - टिप्पण / टिप्पणी-लेखन
 
 office note - कार्यालय टिप्पणी 
 
+paragons - प्रतिमान / आदर्श (missing these days)  
+
 paragraph - अनुच्छेद 
 
 planning - योजना 
@@ -112,4 +114,4 @@ technology - प्रौद्योगिकी
 
 tender - निविदा / नाज़ुक 
 
-thrift - मितव्यता 
+thrift - मितव्यता (very much needed) 
