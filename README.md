@@ -123,3 +123,14 @@ thrift - मितव्यता (very much needed)
 ---- 
 
 ## Hindi Tools   
+
+[hindityping.info](hindityping.info)
+
+[hinkhoj.com](hinkhoj.com) 
+
+---- 
+
+## Rajbhasha Samiti 
+
+
+---- 
