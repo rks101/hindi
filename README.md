@@ -140,3 +140,11 @@ thrift - मितव्यता (very much needed)
 
 
 ---- 
+
+## Alphabet 
+
+Devanagari is the script of Hindi.   
+
+[Sanskrit Academy - Alphabet](https://www.sanskrit-academy.com/alphabet.shtml)   
+
+---- 
