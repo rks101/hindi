@@ -143,7 +143,7 @@ thrift - मितव्यता (very much needed)
 
 ## Alphabet 
 
-Devanagari is the script of Hindi.   
+[Devanagari](https://github.com/rks101/hindi/blob/main/U0900_Devnagri.pdf) is the script of Hindi.   
 
 [Sanskrit Academy - Alphabet](https://www.sanskrit-academy.com/alphabet.shtml)   
 
