@@ -30,6 +30,8 @@ communication - सम्प्रेषण
 
 compile - संकलन 
 
+convener - संयोजक 
+
 consultancy - परामर्श कार्य  
 
 definition - परिभाषा 
