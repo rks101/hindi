@@ -1,6 +1,10 @@
 # hindi
 मुझे मेरी भाषा - हिन्दी से प्रेम है | I love my language - Hindi. 
 
+- हिन्दी Hindi
+  - [Helpful words in Hindi](#helpful-words-in-hindi)
+  - [Hindi tools](#hindi-tools)
+  - [Rajbhasha Samiti](#rajbhasha-samiti) 
 
 ## Helpful words in Hindi   
 
@@ -115,3 +119,7 @@ technology - प्रौद्योगिकी
 tender - निविदा / नाज़ुक 
 
 thrift - मितव्यता (very much needed) 
+
+---- 
+
+## Hindi Tools   
