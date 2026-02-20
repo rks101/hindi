@@ -2,13 +2,13 @@
 मुझे मेरी भाषा - हिन्दी से प्रेम है | I love my language - Hindi. 
 
 - हिन्दी Hindi
-  - [Hindi tools](#hindi-tools)
-  - [Rajbhasha Vibhag राजभाषा विभाग](#rajbhasha-samiti)
-  - [Alphabet](#alphabet)
+  - [हिन्दी टूल्स Hindi tools](#hindi-tools)
+  - [राजभाषा विभाग Rajbhasha Vibhag](#rajbhasha-samiti)
+  - [वर्णमाला Alphabet](#alphabet)
   - [Helpful words in Hindi](#helpful-words-in-hindi)
   - [Languages with the Devanagari script](#Languages-with-the-Devanagari-script)
 
-## Hindi Tools   
+## हिन्दी टूल्स Hindi Tools   
 
 हिन्दी (देवनागरी) कंप्यूटर या मोबाइल में लिखने के लिए आप निम्न लिखित साधन प्रयोग कर सकते हैं:   
 [hindityping.info](https://hindityping.info/)   
@@ -32,7 +32,7 @@
 
 ---- 
 
-## Alphabet 
+## वर्णमाला Alphabet 
 
 देवनागरी हिन्दी की आधिकारिक (ऑफिसियल) लिपि (स्क्रिप्ट) है|   
 [Devanagari](https://github.com/rks101/hindi/blob/main/U0900_Devnagri.pdf)    
