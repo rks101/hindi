@@ -2,11 +2,36 @@
 मुझे मेरी भाषा - हिन्दी से प्रेम है | I love my language - Hindi. 
 
 - हिन्दी Hindi
-  - [Helpful words in Hindi](#helpful-words-in-hindi)
   - [Hindi tools](#hindi-tools)
   - [Rajbhasha Samiti](#rajbhasha-samiti)
   - [Alphabet](#alphabet)
+  - [Helpful words in Hindi](#helpful-words-in-hindi)
   - [Languages with the Devanagari script](#Languages-with-the-Devanagari-script)
+
+## Hindi Tools   
+
+[hindityping.info](https://hindityping.info/)   
+
+[Aksharmukha](https://aksharmukha.com/)   
+
+[hinkhoj.com](https://hinkhoj.com/)   
+
+---- 
+
+## Rajbhasha Samiti 
+
+[Rajbhasha Samiti](https://samiti.rajbhasha.gov.in/)    
+
+
+---- 
+
+## Alphabet 
+
+[Devanagari](https://github.com/rks101/hindi/blob/main/U0900_Devnagri.pdf) is the script of Hindi.   
+
+[Sanskrit Academy - Alphabet](https://www.sanskrit-academy.com/alphabet.shtml)   
+
+---- 
 
 ## Helpful words in Hindi   
 
@@ -123,31 +148,6 @@ technology - प्रौद्योगिकी
 tender - निविदा / नाज़ुक 
 
 thrift - मितव्यता (very much needed) 
-
----- 
-
-## Hindi Tools   
-
-[hindityping.info](https://hindityping.info/)   
-
-[Aksharmukha](https://aksharmukha.com/)   
-
-[hinkhoj.com](https://hinkhoj.com/)   
-
----- 
-
-## Rajbhasha Samiti 
-
-[Rajbhasha Samiti](https://samiti.rajbhasha.gov.in/)    
-
-
----- 
-
-## Alphabet 
-
-[Devanagari](https://github.com/rks101/hindi/blob/main/U0900_Devnagri.pdf) is the script of Hindi.   
-
-[Sanskrit Academy - Alphabet](https://www.sanskrit-academy.com/alphabet.shtml)   
 
 ---- 
 
