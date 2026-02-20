@@ -153,6 +153,7 @@ thrift - मितव्यता (very much needed)
 
 ## Languages with the Devanagari script    
 
+देवनागरी लिपि का प्रयोग करने वाली भाषाएं हैं:    
 - Hindi 
 - Sanskrit
 - Dogri (apart from Dogre Akkhar script) 
