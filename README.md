@@ -11,6 +11,7 @@
 ## हिन्दी टूल्स Hindi Tools   
 
 हिन्दी (देवनागरी) कंप्यूटर या मोबाइल में लिखने के लिए आप निम्न लिखित साधन प्रयोग कर सकते हैं:   
+
 [hindityping.info](https://hindityping.info/)   
 
 [Aksharmukha](https://aksharmukha.com/)   
