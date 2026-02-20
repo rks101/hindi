@@ -3,31 +3,39 @@
 
 - हिन्दी Hindi
   - [Hindi tools](#hindi-tools)
-  - [Rajbhasha Samiti](#rajbhasha-samiti)
+  - [Rajbhasha Vibhag राजभाषा विभाग](#rajbhasha-samiti)
   - [Alphabet](#alphabet)
   - [Helpful words in Hindi](#helpful-words-in-hindi)
   - [Languages with the Devanagari script](#Languages-with-the-Devanagari-script)
 
 ## Hindi Tools   
 
+हिन्दी (देवनागरी) कंप्यूटर या मोबाइल में लिखने के लिए आप निम्न लिखित साधन प्रयोग कर सकते हैं:   
 [hindityping.info](https://hindityping.info/)   
 
 [Aksharmukha](https://aksharmukha.com/)   
 
 [hinkhoj.com](https://hinkhoj.com/)   
 
+
 ---- 
 
-## Rajbhasha Samiti 
+## Rajbhasha Vibhag राजभाषा विभाग 
 
-[Rajbhasha Samiti](https://samiti.rajbhasha.gov.in/)    
+राजभाषा विभाग की प्रमुख वेब साइट: [Rajbhasha Vibhag](https://rajbhasha.gov.in/)    
 
+[संवैधानिक प्रावधान](https://rajbhasha.gov.in/hi/constitutional_provisions)   
+
+[नराकास - लघु कहानियाँ](https://narakas.rajbhasha.gov.in/kahaniyan/)    
+
+[नराकास  - ई-सरल हिंदी वाक्य कोश](https://narakas.rajbhasha.gov.in/saral/saral2.php)    
 
 ---- 
 
 ## Alphabet 
 
-[Devanagari](https://github.com/rks101/hindi/blob/main/U0900_Devnagri.pdf) is the script of Hindi.   
+देवनागरी हिन्दी की आधिकारिक (ऑफिसियल) लिपि (स्क्रिप्ट) है|   
+[Devanagari](https://github.com/rks101/hindi/blob/main/U0900_Devnagri.pdf)    
 
 [Sanskrit Academy - Alphabet](https://www.sanskrit-academy.com/alphabet.shtml)   
 
@@ -35,7 +43,8 @@
 
 ## Helpful words in Hindi   
 
-कभी-कभी अंग्रेजी में कुछ शब्द मिल जाते हैं, और हम हिन्दी में उनके सटीक शब्द को ढूंढते रहते हैं| आइये साझा करते हैं, कुछ शब्द जो दैनिक प्रयोग में सहायक है|  
+कभी-कभी अंग्रेजी में कुछ शब्द मिल जाते हैं, और हम हिन्दी में उनके सही या सटीक शब्द को ढूंढते रहते हैं|    
+आइये साझा करते हैं, कुछ शब्द जो दैनिक प्रयोग में सहायक है|   
 
 analysis - विश्लेषण 
 
@@ -153,7 +162,7 @@ thrift - मितव्यता (very much needed)
 
 ## Languages with the Devanagari script    
 
-देवनागरी लिपि का प्रयोग करने वाली भाषाएं हैं:    
+देवनागरी लिपि का प्रयोग करने वाली भाषाएं निम्न लिखित हैं:    
 - Hindi 
 - Sanskrit
 - Dogri (apart from Dogre Akkhar script) 
