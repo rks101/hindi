@@ -148,3 +148,13 @@ thrift - मितव्यता (very much needed)
 [Sanskrit Academy - Alphabet](https://www.sanskrit-academy.com/alphabet.shtml)   
 
 ---- 
+
+## Languages with the Devanagari script    
+
+- Hindi 
+- Sanskrit
+- Dogri (apart from Dogre Akkhar script) 
+- Marathi
+- Nepali
+
+---- 
