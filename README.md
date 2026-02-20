@@ -4,7 +4,9 @@
 - हिन्दी Hindi
   - [Helpful words in Hindi](#helpful-words-in-hindi)
   - [Hindi tools](#hindi-tools)
-  - [Rajbhasha Samiti](#rajbhasha-samiti) 
+  - [Rajbhasha Samiti](#rajbhasha-samiti)
+  - [Alphabet](#alphabet)
+  - [Languages with the Devanagari script](#Languages-with-the-Devanagari-script)
 
 ## Helpful words in Hindi   
 
