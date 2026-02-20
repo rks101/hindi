@@ -128,7 +128,7 @@ thrift - मितव्यता (very much needed)
 
 ## Hindi Tools   
 
-[hindityping.info]((https://hindityping.info/)   
+[hindityping.info](https://hindityping.info/)   
 
 [Aksharmukha](https://aksharmukha.com/)   
 
