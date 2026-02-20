@@ -158,5 +158,9 @@ thrift - मितव्यता (very much needed)
 - Dogri (apart from Dogre Akkhar script) 
 - Marathi
 - Nepali
+- Rajasthani
+- Bhojpuri
+- Maithili
+- Sindhi
 
 ---- 
