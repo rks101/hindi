@@ -3,7 +3,7 @@
 
 - हिन्दी Hindi
   - [हिन्दी टूल्स Hindi tools](#hindi-tools)
-  - [राजभाषा विभाग Rajbhasha Vibhag](#rajbhasha-samiti)
+  - [Rajbhasha Vibhag राजभाषा विभाग](#rajbhasha-samiti-राजभाषा-विभाग)
   - [वर्णमाला Alphabet](#alphabet)
   - [Helpful words in Hindi](#helpful-words-in-hindi)
   - [Languages with the Devanagari script](#Languages-with-the-Devanagari-script)
